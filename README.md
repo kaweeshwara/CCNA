@@ -9,8 +9,6 @@ Welcome to my **CCNA Labs Repository**! This is where I document my daily hands-
 This repository is organized by **day**, with each day's lab containing the following files:
 - `README.md`: A brief description of the lab, its objectives, and the tools used.
 - `topology.pkt`: The Packet Tracer file for the lab (network diagram and setup).
-- `config.txt`: The configuration commands used in the lab (extracted from routers/switches).
-- `results.txt`: Outputs from verification commands (e.g., `ping`, `show` commands).
 
 ---
 
