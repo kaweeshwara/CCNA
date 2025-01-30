@@ -20,3 +20,6 @@ Use a Laptop as the 'attacker' in the diagram.
 'Automatically Choose Connection Type' function**
 
 
+SOLUTION :
+
+Connected the Devices.
