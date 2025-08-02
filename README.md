@@ -16,6 +16,7 @@ This repository is organized by **day**, with each day's lab containing the foll
 
 Here’s a list of the labs I’ve completed so far:
 - **Day 1**: Day 01 Lab - Packet Tracer Introduction
+- **Day 2**: Day 02 Lab - Interfaces and Cables
 
 
 
