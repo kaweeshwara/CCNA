@@ -20,6 +20,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 3**: Day 03 Lab - OSI Model & TCPIP Suite
 - **Day 4**: Day 04 Lab - Intro to the CLI
 - **Day 5**: Day 05 Lab - Ethernet LAN Switching (part 1)
+- **Day 6**: Day 05 Lab - Ethernet LAN Switching (part 2)
 
 
 
