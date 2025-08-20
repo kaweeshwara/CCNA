@@ -18,6 +18,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 1**: Day 01 Lab - Packet Tracer Introduction
 - **Day 2**: Day 02 Lab - Interfaces and Cables
 - **Day 3**: Day 03 Lab - OSI Model & TCPIP Suite
+- **Day 4**: Day 04 Lab - Intro to the CLI
 
 
 
