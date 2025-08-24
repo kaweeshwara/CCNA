@@ -22,6 +22,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 5**: Day 05 Lab - Ethernet LAN Switching (part 1)
 - **Day 6**: Day 05 Lab - Ethernet LAN Switching (part 2)
 - **Day 7**: Day 07 Lab - IPv4 Addressing (part 1)
+- **Day 8**: Day 07 Lab - IPv4 Addressing (part 2)
 
 
 
