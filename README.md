@@ -27,6 +27,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 10**: Day 10 Lab - The IPv4 Header
 - **Day 11**: Day 11 Lab - Routing Fundamentals & Static Routing
 - **Day 11**: Day 12 Lab - The Life of a Packet
+- **Day 11**: Day 13 Lab - Subnetting (part 1)
 
 
 
