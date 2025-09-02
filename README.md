@@ -26,8 +26,9 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 9**: Day 09 Lab - Switch Interfaces
 - **Day 10**: Day 10 Lab - The IPv4 Header
 - **Day 11**: Day 11 Lab - Routing Fundamentals & Static Routing
-- **Day 11**: Day 12 Lab - The Life of a Packet
-- **Day 11**: Day 13 Lab - Subnetting (part 1)
+- **Day 12**: Day 12 Lab - The Life of a Packet
+- **Day 13**: Day 13 Lab - Subnetting (part 1)
+- **Day 14**: Day 14 Lab - Subnetting (part 2)
 
 
 
