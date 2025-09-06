@@ -31,7 +31,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 14**: Day 14 Lab - Subnetting (part 2)
 - **Day 15**: Day 14 Lab - Subnetting (part 3 - VLSM)
 - **Day 16**: Day 16 - VLANs (part 1)
-
+- **Day 17**: Day 16 - VLANs (part 2)
 
 
 ---
