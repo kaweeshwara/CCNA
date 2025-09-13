@@ -33,7 +33,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 16**: Day 16 - VLANs (part 1)
 - **Day 17**: Day 17 - VLANs (part 2)
 - **Day 18**: Day 18 - VLANs (part 2)
-
+- **Day 19**: Day 19 - DTP & VTP
 
 ---
 
