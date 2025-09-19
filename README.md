@@ -35,6 +35,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 18**: Day 18 - VLANs (part 2)
 - **Day 19**: Day 19 - DTP & VTP
 - **Day 20**: Day 20 - Spanning Tree Protocol (part 1)
+- **Day 21**: Day 21 - Spanning Tree Protocol (part 2)
 
 ---
 
