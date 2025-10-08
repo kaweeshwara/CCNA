@@ -39,6 +39,7 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 22**: Day 22 - Rapid Spanning Tree Protocol (RSTP)
 - **Day 23**: Day 23 - EtherChannel
 - **Day 24**: Day 24 - Dynamic Routing
+- **Day 25**: Day 25 - RIP & EIGRP
 
 
 ---
