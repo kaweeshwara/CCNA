@@ -41,6 +41,8 @@ Here’s a list of the labs I’ve completed so far:
 - **Day 24**: Day 24 - Dynamic Routing
 - **Day 25**: Day 25 - RIP & EIGRP
 - **Day 26**: Day 26 - OSPF (part 1)
+- **Day 27**: Day 27 - OSPF (part 2)
+
 
 
 ---
